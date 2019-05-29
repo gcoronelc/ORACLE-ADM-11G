@@ -1,6 +1,10 @@
+![ADMINISTRACION DE BD ORACLE](https://raw.githubusercontent.com/gcoronelc/SISTUNI-ORACLE-ADM-002/master/Img/ORA-ADM-002B.JPG)
+
+![ADMINISTRACIÓN DE ORACLE 11G](https://raw.githubusercontent.com/gcoronelc/ORACLE-ADM-11G/master/img/orac_adm.jpg)
+
 # ADMINISTRACIÓN DE ORACLE 11G #
 
-![ADMINISTRACIÓN DE ORACLE 11G](https://raw.githubusercontent.com/gcoronelc/ORACLE-ADM-11G/master/img/ora_adm.jpg)
+
 
 ## DOCENTE ##
 
