@@ -7,8 +7,11 @@
 ## DOCENTE ##
 
 - Docente: **Eric Gustavo Coronel Castillo**
-- Blog: [http://www.desarrollasoftware.com/](http://www.desarrollasoftware.com/ "Desarrolla Software")
-- Canal Youtube: [https://www.youtube.com/c/DesarrollaSoftware](https://www.youtube.com/c/DesarrollaSoftware "Desarrolla Software")
 - Correo: **gcoronelc@gmail.com**
+- Cursos Virtuales: [https://bit.ly/2Wp3VLU](https://bit.ly/2Wp3VLU "Cursos Virtuales")
+- Blog: [http://www.desarrollasoftware.com/](http://www.desarrollasoftware.com/ "Desarrolla Software")
+- Canal Youtube: [https://bit.ly/2BWvikz](https://bit.ly/2BWvikz "Desarrolla Software")
+
+
 
 
