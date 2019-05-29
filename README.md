@@ -1,4 +1,4 @@
-![ADMINISTRACIÓN DE ORACLE 11G](https://raw.githubusercontent.com/gcoronelc/ORACLE-ADM-11G/master/img/ora_adm.jpg?token=AAX4UMB6JNZPAKKKXFZ2AWS45XLOY)
+![ADMINISTRACIÓN DE ORACLE 11G](https://raw.githubusercontent.com/gcoronelc/ORACLE-ADM-11G/master/img/ora_adm.jpg?token=AAX4UMHA5YSQXFMDCLHMXFC45XNHI)
 
 # ADMINISTRACIÓN DE ORACLE 11G #
 
